@@ -4,4 +4,4 @@
 
 ## Live demo
 
-🔗 https://USERNAME.github.io/goit-markup-hw-04/
+🔗 https://sours3s.github.io/goit-markup-hw-04/
